@@ -40,12 +40,12 @@
 
 
 ### AI 활용하기 - 4가지 프롬프트 기법
-1. Suno AI로 노래 만들기 - 텍스트를 기반으로 노래를 만든다. RCF C (Roll, Context, Format, Condition)
+1. Suno AI로 노래 만들기 - 텍스트를 기반으로 노래를 만든다. RCF C (Role, Context, Format, Condition)
     #### 멘트 다들 app store 에서 suno 다운받아 주세요.
     - [Suno로 나의 노래를 만들기](https://www.youtube.com/shorts/4sZpKfbCo7A)
     - GPT 작사를 위한 RTF
     --- 
-    Roll : 너는 방탄소년단 곡들을 모두 만든 천재 작곡가야.
+    Role : 너는 방탄소년단 곡들을 모두 만든 천재 작곡가야.
     Tasks : 기말고사로 지친 내 마음을 표현할 강력한 EDM 스타일 곡을 만들어줘.
             난 학원만 저녁에 3개 다녀. 저녁을 집에서 가족들과 먹고 싶어.
     format : 가사를 suno ai가 분석하기 편하게 markdwon 문법으로 작성해줘.
